@@ -96,7 +96,7 @@ ___
 
 ```mermaid
 graph TD
-  A[start] --> b{2>3}
+  A[Start] --> B{2>3}
   B --> |da| C[Действие]
   B --> |net| D[Конец]
 ```
