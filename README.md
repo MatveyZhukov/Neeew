@@ -42,9 +42,9 @@
 [1]: https://example.com
 
 
-![Альт текст](https://bipbap.ru/pictures/samye-krasivye-kartinki-35-foto.html)
-![логотип] (https://bipbap.ru/pictures/samye-krasivye-kartinki-35-foto.html "Подсказка")
-[1[клик](https://example.com)(https://bipbap.ru/pictures/samye-krasivye-kartinki-35-foto.html)
+![Альт текст](https://i.pinimg.com/originals/a9/f3/73/a9f373d1f57e77fb210c214dec67700d.jpg)
+![логотип](https://i.pinimg.com/originals/35/be/22/35be229e075cb205bf12adbeae210307.jpg?nii=t "Подсказка")
+[![клик](https://i.pinimg.com/originals/a9/f3/73/a9f373d1f57e77fb210c214dec67700d.jpg)](https://example.com)
 
 цитаты
 -------
