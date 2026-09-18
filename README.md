@@ -44,7 +44,7 @@
 
 ![Альт текст](https://i.pinimg.com/originals/a9/f3/73/a9f373d1f57e77fb210c214dec67700d.jpg)
 ![логотип](https://i.pinimg.com/originals/35/be/22/35be229e075cb205bf12adbeae210307.jpg?nii=t "Подсказка")
-[![клик по картинке](https://i.pinimg.com/originals/a9/f3/73/a9f373d1f57e77fb210c214dec67700d.jpg) (https://example.com)
+ [![клик по картинке](https://i.pinimg.com/originals/a9/f3/73/a9f373d1f57e77fb210c214dec67700d.jpg) (https://example.com)
 
 цитаты
 -------
